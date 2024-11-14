@@ -22,7 +22,7 @@ const PriceOption = ({option}) => {
 }
 PriceOption.propTypes = {
   option: PropTypes.object,
-  name: PropTypes.string.isRequired,
+  name: PropTypes.string,
   features: PropTypes.array,
 };
 
