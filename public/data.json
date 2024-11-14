@@ -1,0 +1,75 @@
+{
+  "PriceOptions": [
+    {
+      "id": 1,
+      "name": "Basic Fit",
+      "monthlyPrice": 25,
+      "features": [
+        "Access to gym equipment",
+        "Locker room access",
+        "Open from 6am to 10pm",
+        "Free parking",
+        "Wi-Fi access",
+        "Water refill station access"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Plus",
+      "monthlyPrice": 50,
+      "features": [
+        "All Basic Fit features",
+        "Access to group classes (Yoga, Zumba, etc.)",
+        "One free personal training session per month",
+        "Sauna access",
+        "Steam room access",
+        "Discounts on gym merchandise",
+        "Body composition analysis"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Pro",
+      "monthlyPrice": 80,
+      "features": [
+        "All Standard Plus features",
+        "Unlimited personal training sessions",
+        "Nutrition counseling",
+        "Priority booking for classes",
+        "24/7 gym access",
+        "Access to swimming pool",
+        "Complimentary workout towels"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Elite VIP",
+      "monthlyPrice": 120,
+      "features": [
+        "All Premium Pro features",
+        "Private locker with laundry service",
+        "Access to VIP lounge",
+        "Monthly fitness assessments",
+        "Spa and massage sessions",
+        "Dedicated personal trainer",
+        "Access to private training rooms",
+        "Complimentary meal plan"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Ultimate Platinum",
+      "monthlyPrice": 150,
+      "features": [
+        "All Elite VIP features",
+        "Customized workout and diet plan",
+        "Access to exclusive workshops and events",
+        "Complimentary premium supplements",
+        "Priority 24/7 customer support",
+        "Free guest passes for family/friends",
+        "Personalized wellness coaching",
+        "VIP concierge services"
+      ]
+    }
+  ]
+}
